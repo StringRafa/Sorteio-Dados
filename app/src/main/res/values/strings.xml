@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sorteios e Dados</string>
+    <string name="escolha">Escolha um número</string>
+    <string name="de">De:</string>
+    <string name="ate">Até:</string>
+    <string name="sortear">Sortear</string>
+    <string name="circulo">Circulo onde aparece o resultado</string>
+    <string name="jogue">Jogue o Dado</string>
+    <string name="jogar">Jogar</string>
+    <string name="joguedados">Jogue os Dados</string>
+    <string name="jogueate">Jogue até 4 Dados</string>
+    <string name="sorteio">Sorteio</string>
+    <string name="umdado">1 Dado</string>
+    <string name="bolasSorteio">Imagem com bolas de sorteios.</string>
+    <string name="imagemUmDado">Imagem com um dado.</string>
+    <string name="imagemdoisdados">Imagem com dois dados.</string>
+    <string name="admob_appid">ca-app-pub-1596915774472548~6840569196</string>
+    <string name="admob_banner">ca-app-pub-1596915774472548/5043082423</string>
+
+</resources>
